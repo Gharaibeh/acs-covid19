@@ -28,17 +28,8 @@ Disclaimer
 - Users can upload their test results to backend. 
 - Users can browse the recent update information in regard of Covid-19 through a dashboard
 - Dashboard can be accessed 
-```bash
-https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyMDA2MjE1IiwidCI6IjBhM2RhMThmLTIzOWYtNDZmOC1hNmFiLTc3NmJmODE0ZmQzZiIsImMiOjEwfQ%3D%3D
-```  
-
-# Screenshots:
-
-![Splash screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/splashscreen.png)
-![Disclaimer screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/disclaimernew.png)
-![Main app screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/home.png)
-![Dashboard](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/dashboard.png)
-
+  ![Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyMDA2MjE1IiwidCI6IjBhM2RhMThmLTIzOWYtNDZmOC1hNmFiLTc3NmJmODE0ZmQzZiIsImMiOjEwfQ%3D%3D)
+ 
 
 # APK for Android 
 
@@ -49,3 +40,10 @@ https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyM
 ![sheet](https://github.com/Gharaibeh/acs-covid19/blob/master/csv%20sample/NetstarCovid19%20.csv)
 
  
+# Screenshots:
+
+![Splash screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/splashscreen.png)
+![Disclaimer screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/disclaimernew.png)
+![Main app screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/home.png)
+![Dashboard](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/dashboard.png)
+
