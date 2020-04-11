@@ -35,7 +35,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyM
 # Screenshots:
 
 ![Splash screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/splashscreen.png)
-![Disclaimer screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/disclaimer.png)
+![Disclaimer screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/disclaimernew.png)
 ![Main app screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/home.png)
 ![Dashboard](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/dashboard.png)
 
