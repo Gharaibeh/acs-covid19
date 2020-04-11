@@ -291,6 +291,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c61ac10887d19d848b2546063ef0b8db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: 3
+  sceneIndex: 1
+  isAuto: 1
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
