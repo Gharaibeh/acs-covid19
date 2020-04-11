@@ -28,8 +28,8 @@ Disclaimer
 - Users can upload their test results to backend. 
 - Users can browse the recent update information in regard of Covid-19 through a dashboard
 - Dashboard can be accessed 
-  ![Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyMDA2MjE1IiwidCI6IjBhM2RhMThmLTIzOWYtNDZmOC1hNmFiLTc3NmJmODE0ZmQzZiIsImMiOjEwfQ%3D%3D)
- 
+ [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmFjMDg0ZGYtNWRkNC00NTcwLWFhNjUtYjA5MTkyMDA2MjE1IiwidCI6IjBhM2RhMThmLTIzOWYtNDZmOC1hNmFiLTc3NmJmODE0ZmQzZiIsImMiOjEwfQ%3D%3D)
+
 
 # APK for Android 
 
