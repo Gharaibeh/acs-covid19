@@ -44,6 +44,6 @@ Disclaimer
 
 ![Splash screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/splashscreen.png)
 ![Disclaimer screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/disclaimernew.png)
-![Main app screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/home.png)
+![Main app screen](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/home1.png)
 ![Dashboard](https://github.com/Gharaibeh/acs-covid19/blob/master/Screenshots/dashboard.png)
 
