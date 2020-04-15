@@ -34,7 +34,8 @@ Disclaimer
 # APK for Android 
 
 ![apk](https://github.com/Gharaibeh/acs-covid19/blob/master/Android%20APK/NetstarCovid.apk)
-
+- Make sure to enable location service 
+- Go to app settings in the android setting and make sure to allow location service to the installed App
 # Sample excelsheet data (.csv) 
 
 ![sheet](https://github.com/Gharaibeh/acs-covid19/blob/master/csv%20sample/NetstarCovid19%20.csv)
